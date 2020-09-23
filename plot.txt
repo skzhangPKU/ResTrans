@@ -1,0 +1,504 @@
+==>Epoch: 0
+100%|██████████| 315/315 [10:03<00:00,  1.92s/it]
+Loss is:0.0820, Train Accuracy is:38.0000%
+  0%|          | 0/79 [00:00<?, ?it/s][DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:13<00:00,  1.69s/it]
+Test Accuracy is:24.0000%
+
+==>Epoch: 1
+100%|██████████| 315/315 [10:05<00:00,  1.92s/it]
+Loss is:0.0431, Train Accuracy is:47.0000%
+[DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:13<00:00,  1.69s/it]
+Test Accuracy is:46.0000%
+
+==>Epoch: 2
+100%|██████████| 315/315 [10:03<00:00,  1.92s/it]
+Loss is:0.0315, Train Accuracy is:64.0000%
+[DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:13<00:00,  1.69s/it]
+Test Accuracy is:83.0000%
+
+==>Epoch: 3
+100%|██████████| 315/315 [10:02<00:00,  1.91s/it]
+Loss is:0.0262, Train Accuracy is:86.0000%
+[DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:13<00:00,  1.68s/it]
+Test Accuracy is:81.0000%
+  0%|          | 0/315 [00:00<?, ?it/s]
+==>Epoch: 4
+100%|██████████| 315/315 [10:03<00:00,  1.92s/it]
+Loss is:0.0220, Train Accuracy is:90.0000%
+  0%|          | 0/79 [00:00<?, ?it/s][DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:14<00:00,  1.70s/it]
+Test Accuracy is:84.0000%
+
+==>Epoch: 5
+100%|██████████| 315/315 [10:05<00:00,  1.92s/it]
+Loss is:0.0186, Train Accuracy is:90.0000%
+[DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:13<00:00,  1.69s/it]
+Test Accuracy is:82.0000%
+  0%|          | 0/315 [00:00<?, ?it/s]
+==>Epoch: 6
+100%|██████████| 315/315 [10:04<00:00,  1.92s/it]
+Loss is:0.0164, Train Accuracy is:90.0000%
+[DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:13<00:00,  1.69s/it]
+Test Accuracy is:86.0000%
+  0%|          | 0/315 [00:00<?, ?it/s]
+==>Epoch: 7
+100%|██████████| 315/315 [10:04<00:00,  1.92s/it]
+Loss is:0.0150, Train Accuracy is:91.0000%
+[DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:13<00:00,  1.69s/it]
+Test Accuracy is:85.0000%
+
+==>Epoch: 8
+100%|██████████| 315/315 [10:04<00:00,  1.92s/it]
+Loss is:0.0139, Train Accuracy is:91.0000%
+[DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:13<00:00,  1.69s/it]
+Test Accuracy is:86.0000%
+  0%|          | 0/315 [00:00<?, ?it/s]
+==>Epoch: 9
+100%|██████████| 315/315 [10:05<00:00,  1.92s/it]
+Loss is:0.0128, Train Accuracy is:92.0000%
+[DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:13<00:00,  1.69s/it]
+Test Accuracy is:86.0000%
+  0%|          | 0/315 [00:00<?, ?it/s]
+==>Epoch: 10
+100%|██████████| 315/315 [10:02<00:00,  1.91s/it]
+Loss is:0.0119, Train Accuracy is:92.0000%
+  0%|          | 0/79 [00:00<?, ?it/s][DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:13<00:00,  1.69s/it]
+Test Accuracy is:86.0000%
+  0%|          | 0/315 [00:00<?, ?it/s]
+==>Epoch: 11
+100%|██████████| 315/315 [10:02<00:00,  1.91s/it]
+Loss is:0.0120, Train Accuracy is:92.0000%
+[DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:13<00:00,  1.69s/it]
+Test Accuracy is:86.0000%
+  0%|          | 0/315 [00:00<?, ?it/s]
+==>Epoch: 12
+100%|██████████| 315/315 [10:02<00:00,  1.91s/it]
+Loss is:0.0115, Train Accuracy is:92.0000%
+[DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:12<00:00,  1.68s/it]
+Test Accuracy is:87.0000%
+
+==>Epoch: 13
+100%|██████████| 315/315 [10:01<00:00,  1.91s/it]
+Loss is:0.0102, Train Accuracy is:93.0000%
+  0%|          | 0/79 [00:00<?, ?it/s][DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:12<00:00,  1.68s/it]
+Test Accuracy is:86.0000%
+
+==>Epoch: 14
+100%|██████████| 315/315 [10:01<00:00,  1.91s/it]
+Loss is:0.0097, Train Accuracy is:93.0000%
+[DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:13<00:00,  1.69s/it]
+Test Accuracy is:86.0000%
+
+==>Epoch: 15
+100%|██████████| 315/315 [10:00<00:00,  1.91s/it]
+Loss is:0.0090, Train Accuracy is:94.0000%
+[DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:13<00:00,  1.68s/it]
+Test Accuracy is:87.0000%
+  0%|          | 0/315 [00:00<?, ?it/s]
+==>Epoch: 16
+100%|██████████| 315/315 [10:01<00:00,  1.91s/it]
+Loss is:0.0080, Train Accuracy is:94.0000%
+[DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:12<00:00,  1.68s/it]
+Test Accuracy is:88.0000%
+
+==>Epoch: 17
+100%|██████████| 315/315 [10:01<00:00,  1.91s/it]
+Loss is:0.0075, Train Accuracy is:94.0000%
+[DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:12<00:00,  1.68s/it]
+Test Accuracy is:87.0000%
+
+==>Epoch: 18
+100%|██████████| 315/315 [10:00<00:00,  1.91s/it]
+Loss is:0.0071, Train Accuracy is:95.0000%
+[DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:12<00:00,  1.68s/it]
+Test Accuracy is:87.0000%
+
+==>Epoch: 19
+100%|██████████| 315/315 [10:01<00:00,  1.91s/it]
+Loss is:0.0070, Train Accuracy is:95.0000%
+[DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:12<00:00,  1.68s/it]
+Test Accuracy is:87.0000%
+  0%|          | 0/315 [00:00<?, ?it/s]
+==>Epoch: 20
+100%|██████████| 315/315 [10:01<00:00,  1.91s/it]
+Loss is:0.0066, Train Accuracy is:95.0000%
+[DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:13<00:00,  1.69s/it]
+Test Accuracy is:87.0000%
+
+==>Epoch: 21
+100%|██████████| 315/315 [10:01<00:00,  1.91s/it]
+Loss is:0.0060, Train Accuracy is:95.0000%
+[DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:13<00:00,  1.69s/it]
+Test Accuracy is:88.0000%
+
+==>Epoch: 22
+100%|██████████| 315/315 [10:01<00:00,  1.91s/it]
+Loss is:0.0060, Train Accuracy is:95.0000%
+[DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:12<00:00,  1.68s/it]
+Test Accuracy is:87.0000%
+
+==>Epoch: 23
+100%|██████████| 315/315 [10:01<00:00,  1.91s/it]
+Loss is:0.0058, Train Accuracy is:95.0000%
+[DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:12<00:00,  1.68s/it]
+Test Accuracy is:88.0000%
+
+==>Epoch: 24
+100%|██████████| 315/315 [10:01<00:00,  1.91s/it]
+Loss is:0.0055, Train Accuracy is:95.0000%
+  0%|          | 0/79 [00:00<?, ?it/s][DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:12<00:00,  1.68s/it]
+Test Accuracy is:88.0000%
+
+==>Epoch: 25
+100%|██████████| 315/315 [10:01<00:00,  1.91s/it]
+Loss is:0.0053, Train Accuracy is:95.0000%
+[DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:13<00:00,  1.68s/it]
+Test Accuracy is:88.0000%
+
+==>Epoch: 26
+100%|██████████| 315/315 [10:02<00:00,  1.91s/it]
+Loss is:0.0054, Train Accuracy is:95.0000%
+  0%|          | 0/79 [00:00<?, ?it/s][DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:12<00:00,  1.68s/it]
+Test Accuracy is:87.0000%
+
+==>Epoch: 27
+100%|██████████| 315/315 [10:02<00:00,  1.91s/it]
+Loss is:0.0050, Train Accuracy is:96.0000%
+[DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:12<00:00,  1.68s/it]
+Test Accuracy is:88.0000%
+  0%|          | 0/315 [00:00<?, ?it/s]
+==>Epoch: 28
+100%|██████████| 315/315 [10:01<00:00,  1.91s/it]
+Loss is:0.0053, Train Accuracy is:95.0000%
+[DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:12<00:00,  1.68s/it]
+Test Accuracy is:88.0000%
+
+==>Epoch: 29
+100%|██████████| 315/315 [10:01<00:00,  1.91s/it]
+Loss is:0.0049, Train Accuracy is:96.0000%
+  0%|          | 0/79 [00:00<?, ?it/s][DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:12<00:00,  1.68s/it]
+Test Accuracy is:87.0000%
+
+==>Epoch: 30
+100%|██████████| 315/315 [10:01<00:00,  1.91s/it]
+Loss is:0.0050, Train Accuracy is:96.0000%
+  0%|          | 0/79 [00:00<?, ?it/s][DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:12<00:00,  1.68s/it]
+Test Accuracy is:88.0000%
+
+==>Epoch: 31
+100%|██████████| 315/315 [10:01<00:00,  1.91s/it]
+Loss is:0.0047, Train Accuracy is:96.0000%
+  0%|          | 0/79 [00:00<?, ?it/s][DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:12<00:00,  1.68s/it]
+Test Accuracy is:88.0000%
+  0%|          | 0/315 [00:00<?, ?it/s]
+==>Epoch: 32
+100%|██████████| 315/315 [10:01<00:00,  1.91s/it]
+Loss is:0.0047, Train Accuracy is:96.0000%
+[DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:12<00:00,  1.68s/it]
+Test Accuracy is:88.0000%
+
+==>Epoch: 33
+100%|██████████| 315/315 [10:01<00:00,  1.91s/it]
+Loss is:0.0048, Train Accuracy is:96.0000%
+[DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:12<00:00,  1.68s/it]
+Test Accuracy is:88.0000%
+
+==>Epoch: 34
+100%|██████████| 315/315 [10:01<00:00,  1.91s/it]
+Loss is:0.0045, Train Accuracy is:96.0000%
+  0%|          | 0/79 [00:00<?, ?it/s][DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:12<00:00,  1.68s/it]
+  0%|          | 0/315 [00:00<?, ?it/s]Test Accuracy is:88.0000%
+
+==>Epoch: 35
+100%|██████████| 315/315 [10:01<00:00,  1.91s/it]
+Loss is:0.0046, Train Accuracy is:96.0000%
+[DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:12<00:00,  1.68s/it]
+Test Accuracy is:88.0000%
+
+==>Epoch: 36
+100%|██████████| 315/315 [10:01<00:00,  1.91s/it]
+Loss is:0.0045, Train Accuracy is:96.0000%
+[DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:12<00:00,  1.68s/it]
+Test Accuracy is:88.0000%
+
+==>Epoch: 37
+100%|██████████| 315/315 [10:01<00:00,  1.91s/it]
+Loss is:0.0043, Train Accuracy is:96.0000%
+  0%|          | 0/79 [00:00<?, ?it/s][DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:13<00:00,  1.69s/it]
+Test Accuracy is:88.0000%
+
+==>Epoch: 38
+100%|██████████| 315/315 [10:01<00:00,  1.91s/it]
+Loss is:0.0040, Train Accuracy is:96.0000%
+  0%|          | 0/79 [00:00<?, ?it/s][DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:13<00:00,  1.69s/it]
+  0%|          | 0/315 [00:00<?, ?it/s]Test Accuracy is:88.0000%
+
+==>Epoch: 39
+100%|██████████| 315/315 [10:01<00:00,  1.91s/it]
+Loss is:0.0042, Train Accuracy is:96.0000%
+[DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:12<00:00,  1.68s/it]
+Test Accuracy is:88.0000%
+
+==>Epoch: 40
+100%|██████████| 315/315 [10:01<00:00,  1.91s/it]
+Loss is:0.0041, Train Accuracy is:96.0000%
+[DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:12<00:00,  1.68s/it]
+  0%|          | 0/315 [00:00<?, ?it/s]Test Accuracy is:87.0000%
+
+==>Epoch: 41
+100%|██████████| 315/315 [10:01<00:00,  1.91s/it]
+Loss is:0.0040, Train Accuracy is:96.0000%
+[DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:12<00:00,  1.68s/it]
+Test Accuracy is:88.0000%
+
+==>Epoch: 42
+100%|██████████| 315/315 [10:01<00:00,  1.91s/it]
+Loss is:0.0042, Train Accuracy is:96.0000%
+[DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:13<00:00,  1.68s/it]
+Test Accuracy is:88.0000%
+  0%|          | 0/315 [00:00<?, ?it/s]
+==>Epoch: 43
+100%|██████████| 315/315 [10:01<00:00,  1.91s/it]
+Loss is:0.0037, Train Accuracy is:96.0000%
+[DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:13<00:00,  1.69s/it]
+Test Accuracy is:88.0000%
+
+==>Epoch: 44
+100%|██████████| 315/315 [10:01<00:00,  1.91s/it]
+Loss is:0.0038, Train Accuracy is:96.0000%
+  0%|          | 0/79 [00:00<?, ?it/s][DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:12<00:00,  1.68s/it]
+Test Accuracy is:87.0000%
+
+==>Epoch: 45
+100%|██████████| 315/315 [10:01<00:00,  1.91s/it]
+Loss is:0.0037, Train Accuracy is:96.0000%
+  0%|          | 0/79 [00:00<?, ?it/s][DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:12<00:00,  1.68s/it]
+Test Accuracy is:88.0000%
+  0%|          | 0/315 [00:00<?, ?it/s]
+==>Epoch: 46
+100%|██████████| 315/315 [10:04<00:00,  1.92s/it]
+Loss is:0.0043, Train Accuracy is:96.0000%
+[DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:12<00:00,  1.68s/it]
+Test Accuracy is:88.0000%
+
+==>Epoch: 47
+100%|██████████| 315/315 [10:01<00:00,  1.91s/it]
+Loss is:0.0041, Train Accuracy is:96.0000%
+  0%|          | 0/79 [00:00<?, ?it/s][DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:12<00:00,  1.68s/it]
+Test Accuracy is:89.0000%
+
+==>Epoch: 48
+100%|██████████| 315/315 [10:00<00:00,  1.91s/it]
+Loss is:0.0037, Train Accuracy is:96.0000%
+  0%|          | 0/79 [00:00<?, ?it/s][DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:12<00:00,  1.68s/it]
+Test Accuracy is:89.0000%
+
+==>Epoch: 49
+100%|██████████| 315/315 [10:00<00:00,  1.91s/it]
+Loss is:0.0037, Train Accuracy is:96.0000%
+  0%|          | 0/79 [00:00<?, ?it/s][DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:12<00:00,  1.68s/it]
+Test Accuracy is:89.0000%
+
+==>Epoch: 50
+100%|██████████| 315/315 [10:00<00:00,  1.91s/it]
+Loss is:0.0038, Train Accuracy is:96.0000%
+  0%|          | 0/79 [00:00<?, ?it/s][DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:12<00:00,  1.68s/it]
+Test Accuracy is:88.0000%
+
+==>Epoch: 51
+100%|██████████| 315/315 [10:00<00:00,  1.91s/it]
+Loss is:0.0039, Train Accuracy is:96.0000%
+[DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:12<00:00,  1.68s/it]
+Test Accuracy is:88.0000%
+
+==>Epoch: 52
+100%|██████████| 315/315 [10:00<00:00,  1.91s/it]
+Loss is:0.0037, Train Accuracy is:96.0000%
+  0%|          | 0/79 [00:00<?, ?it/s][DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:12<00:00,  1.68s/it]
+Test Accuracy is:87.0000%
+  0%|          | 0/315 [00:00<?, ?it/s]
+==>Epoch: 53
+100%|██████████| 315/315 [10:01<00:00,  1.91s/it]
+Loss is:0.0038, Train Accuracy is:96.0000%
+[DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:12<00:00,  1.68s/it]
+Test Accuracy is:88.0000%
+  0%|          | 0/315 [00:00<?, ?it/s]
+==>Epoch: 54
+100%|██████████| 315/315 [10:00<00:00,  1.91s/it]
+Loss is:0.0038, Train Accuracy is:96.0000%
+[DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:12<00:00,  1.68s/it]
+  0%|          | 0/315 [00:00<?, ?it/s]Test Accuracy is:88.0000%
+
+==>Epoch: 55
+100%|██████████| 315/315 [10:00<00:00,  1.91s/it]
+Loss is:0.0037, Train Accuracy is:96.0000%
+[DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:12<00:00,  1.68s/it]
+Test Accuracy is:89.0000%
+  0%|          | 0/315 [00:00<?, ?it/s]
+==>Epoch: 56
+100%|██████████| 315/315 [10:00<00:00,  1.91s/it]
+Loss is:0.0035, Train Accuracy is:97.0000%
+[DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:13<00:00,  1.68s/it]
+Test Accuracy is:88.0000%
+
+==>Epoch: 57
+100%|██████████| 315/315 [09:59<00:00,  1.90s/it]
+Loss is:0.0038, Train Accuracy is:96.0000%
+  0%|          | 0/79 [00:00<?, ?it/s][DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:12<00:00,  1.68s/it]
+Test Accuracy is:88.0000%
+
+==>Epoch: 58
+100%|██████████| 315/315 [10:00<00:00,  1.91s/it]
+Loss is:0.0039, Train Accuracy is:96.0000%
+[DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:12<00:00,  1.68s/it]
+Test Accuracy is:88.0000%
+
+==>Epoch: 59
+100%|██████████| 315/315 [10:00<00:00,  1.91s/it]
+Loss is:0.0036, Train Accuracy is:96.0000%
+[DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:12<00:00,  1.68s/it]
+Test Accuracy is:88.0000%
+
+==>Epoch: 60
+100%|██████████| 315/315 [10:00<00:00,  1.91s/it]
+Loss is:0.0038, Train Accuracy is:96.0000%
+[DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:12<00:00,  1.68s/it]
+Test Accuracy is:88.0000%
+
+==>Epoch: 61
+100%|██████████| 315/315 [10:00<00:00,  1.91s/it]
+Loss is:0.0037, Train Accuracy is:96.0000%
+[DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:13<00:00,  1.69s/it]
+Test Accuracy is:88.0000%
+
+==>Epoch: 62
+100%|██████████| 315/315 [10:00<00:00,  1.91s/it]
+Loss is:0.0035, Train Accuracy is:96.0000%
+[DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:12<00:00,  1.68s/it]
+Test Accuracy is:88.0000%
+
+==>Epoch: 63
+100%|██████████| 315/315 [10:00<00:00,  1.91s/it]
+Loss is:0.0037, Train Accuracy is:96.0000%
+[DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:12<00:00,  1.68s/it]
+Test Accuracy is:88.0000%
+
+==>Epoch: 64
+100%|██████████| 315/315 [10:00<00:00,  1.91s/it]
+Loss is:0.0039, Train Accuracy is:96.0000%
+[DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:12<00:00,  1.68s/it]
+Test Accuracy is:88.0000%
+  0%|          | 0/315 [00:00<?, ?it/s]
+==>Epoch: 65
+100%|██████████| 315/315 [09:59<00:00,  1.90s/it]
+Loss is:0.0036, Train Accuracy is:96.0000%
+[DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:12<00:00,  1.68s/it]
+Test Accuracy is:88.0000%
+
+==>Epoch: 66
+100%|██████████| 315/315 [09:59<00:00,  1.90s/it]
+Loss is:0.0036, Train Accuracy is:96.0000%
+  0%|          | 0/79 [00:00<?, ?it/s][DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:12<00:00,  1.68s/it]
+Test Accuracy is:88.0000%
+
+==>Epoch: 67
+100%|██████████| 315/315 [09:59<00:00,  1.90s/it]
+Loss is:0.0036, Train Accuracy is:96.0000%
+  0%|          | 0/79 [00:00<?, ?it/s][DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:12<00:00,  1.68s/it]
+Test Accuracy is:88.0000%
+
+==>Epoch: 68
+100%|██████████| 315/315 [10:00<00:00,  1.91s/it]
+Loss is:0.0036, Train Accuracy is:96.0000%
+[DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:12<00:00,  1.68s/it]
+Test Accuracy is:88.0000%
+
+==>Epoch: 69
+100%|██████████| 315/315 [10:00<00:00,  1.91s/it]
+Loss is:0.0035, Train Accuracy is:96.0000%
+[DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:12<00:00,  1.68s/it]
+Test Accuracy is:88.0000%
+
+  0%|          | 0/315 [00:00<?, ?it/s]==>Epoch: 70
+100%|██████████| 315/315 [10:00<00:00,  1.91s/it]
+Loss is:0.0034, Train Accuracy is:96.0000%
+[DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:12<00:00,  1.68s/it]
+Test Accuracy is:88.0000%
+
+==>Epoch: 71
+100%|██████████| 315/315 [09:59<00:00,  1.90s/it]
+Loss is:0.0032, Train Accuracy is:96.0000%
+  0%|          | 0/79 [00:00<?, ?it/s][DEBUG] Running inference on TEST with 79 batches
+100%|██████████| 79/79 [02:14<00:00,  1.70s/it]
+Test Accuracy is:89.0000%
+  0%|          | 0/315 [00:00<?, ?it/s]
