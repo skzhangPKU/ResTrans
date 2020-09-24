@@ -1,7 +1,3 @@
-'''
-Author: Jieshan Chen
-'''
-
 import argparse
 
 def get_opt():

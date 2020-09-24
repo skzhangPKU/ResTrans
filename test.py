@@ -1,7 +1,3 @@
-'''
-Author: Jieshan Chen
-'''
-
 import argparse, os, time, pickle, json
 import numpy as np
 from tqdm import tqdm
